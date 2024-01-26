@@ -22,4 +22,3 @@ const result = () => {
         setTimeout(result, 10)
     }
 }
-result()
